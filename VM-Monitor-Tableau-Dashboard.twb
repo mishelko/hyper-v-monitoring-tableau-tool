@@ -1364,8 +1364,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1400' minheight='1400' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98212' id='29' param='vert' type-v2='layout-flow' w='99034' x='483' y='894'>
+            <zone h='100000' id='32' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98212' id='31' param='vert' type-v2='layout-flow' w='99034' x='483' y='894'>
                 <zone fixed-size='280' h='47486' id='12' is-fixed='true' name='Server Overview' w='48401' x='483' y='894'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
